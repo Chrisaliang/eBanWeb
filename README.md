@@ -1,2 +1,0 @@
-# eBanWeb
-eban's web
