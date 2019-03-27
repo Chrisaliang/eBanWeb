@@ -1,5 +1,5 @@
 """
-WSGI config for ebanTest project.
+WSGI config for ebanWeb project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ebanTest.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ebanWeb.settings')
 
 application = get_wsgi_application()
