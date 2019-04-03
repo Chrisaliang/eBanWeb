@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ebanTest.urls'
+ROOT_URLCONF = 'ebanWeb.urls'
 
 TEMPLATES = [
     {
